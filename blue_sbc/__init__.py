@@ -4,11 +4,11 @@ ICON = "🌀"
 
 DESCRIPTION = f"{ICON} AI for single board computers."
 
-VERSION = "7.72.1"
+VERSION = "7.73.1"
 
 REPO_NAME = "blue-sbc"
 
-MARQUEE = "https://github.com/kamangir/assets/raw/main/blue-plugin/marquee.png?raw=true"
+MARQUEE = "https://github.com/kamangir/blue-bracket/blob/main/images/helmet-3.jpg"
 
 ALIAS = "@sbc"
 
